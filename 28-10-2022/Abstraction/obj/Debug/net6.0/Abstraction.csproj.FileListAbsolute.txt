@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\bin\Debug\net6.0\Abstraction.exe
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\bin\Debug\net6.0\Abstraction.deps.json
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\bin\Debug\net6.0\Abstraction.runtimeconfig.json
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\bin\Debug\net6.0\Abstraction.dll
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\bin\Debug\net6.0\ref\Abstraction.dll
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\bin\Debug\net6.0\Abstraction.pdb
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\obj\Debug\net6.0\Abstraction.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\obj\Debug\net6.0\Abstraction.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\obj\Debug\net6.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\obj\Debug\net6.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\obj\Debug\net6.0\Abstraction.dll
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\obj\Debug\net6.0\ref\Abstraction.dll
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\obj\Debug\net6.0\Abstraction.pdb
+D:\Study\C#\TrainingCourse\28-10-2022\Abstraction\obj\Debug\net6.0\Abstraction.genruntimeconfig.cache

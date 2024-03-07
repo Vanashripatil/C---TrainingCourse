@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\obj\Debug\net6.0\nullCoalescing.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\obj\Debug\net6.0\nullCoalescing.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\obj\Debug\net6.0\nullCoalescing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\obj\Debug\net6.0\nullCoalescing.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\obj\Debug\net6.0\nullCoalescing.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\obj\Debug\net6.0\nullCoalescing.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\bin\Debug\net6.0\nullCoalescing.exe
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\bin\Debug\net6.0\nullCoalescing.deps.json
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\bin\Debug\net6.0\nullCoalescing.runtimeconfig.json
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\bin\Debug\net6.0\nullCoalescing.dll
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\bin\Debug\net6.0\ref\nullCoalescing.dll
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\bin\Debug\net6.0\nullCoalescing.pdb
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\obj\Debug\net6.0\nullCoalescing.dll
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\obj\Debug\net6.0\ref\nullCoalescing.dll
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\obj\Debug\net6.0\nullCoalescing.pdb
+D:\Study\C#\TrainingCourse\21-10-2022\nullCoalescing\obj\Debug\net6.0\nullCoalescing.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\bin\Debug\net6.0\MethodOverloading.exe
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\bin\Debug\net6.0\MethodOverloading.deps.json
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\bin\Debug\net6.0\MethodOverloading.runtimeconfig.json
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\bin\Debug\net6.0\MethodOverloading.dll
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\bin\Debug\net6.0\ref\MethodOverloading.dll
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\bin\Debug\net6.0\MethodOverloading.pdb
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\obj\Debug\net6.0\MethodOverloading.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\obj\Debug\net6.0\MethodOverloading.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\obj\Debug\net6.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\obj\Debug\net6.0\MethodOverloading.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\obj\Debug\net6.0\MethodOverloading.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\obj\Debug\net6.0\MethodOverloading.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\obj\Debug\net6.0\MethodOverloading.dll
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\obj\Debug\net6.0\ref\MethodOverloading.dll
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\obj\Debug\net6.0\MethodOverloading.pdb
+D:\Study\C#\TrainingCourse\27-10-2022\MethodOverloading\obj\Debug\net6.0\MethodOverloading.genruntimeconfig.cache

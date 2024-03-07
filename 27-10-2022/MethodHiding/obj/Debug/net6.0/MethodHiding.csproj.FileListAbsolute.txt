@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\bin\Debug\net6.0\MethodHiding.exe
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\bin\Debug\net6.0\MethodHiding.deps.json
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\bin\Debug\net6.0\MethodHiding.runtimeconfig.json
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\bin\Debug\net6.0\MethodHiding.dll
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\bin\Debug\net6.0\ref\MethodHiding.dll
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\bin\Debug\net6.0\MethodHiding.pdb
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\obj\Debug\net6.0\MethodHiding.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\obj\Debug\net6.0\MethodHiding.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\obj\Debug\net6.0\MethodHiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\obj\Debug\net6.0\MethodHiding.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\obj\Debug\net6.0\MethodHiding.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\obj\Debug\net6.0\MethodHiding.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\obj\Debug\net6.0\MethodHiding.dll
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\obj\Debug\net6.0\ref\MethodHiding.dll
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\obj\Debug\net6.0\MethodHiding.pdb
+D:\Study\C#\TrainingCourse\27-10-2022\MethodHiding\obj\Debug\net6.0\MethodHiding.genruntimeconfig.cache

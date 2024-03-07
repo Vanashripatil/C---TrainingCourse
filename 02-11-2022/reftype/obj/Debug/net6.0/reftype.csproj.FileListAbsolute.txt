@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\obj\Debug\net6.0\reftype.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\obj\Debug\net6.0\reftype.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\obj\Debug\net6.0\reftype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\obj\Debug\net6.0\reftype.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\obj\Debug\net6.0\reftype.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\obj\Debug\net6.0\reftype.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\bin\Debug\net6.0\reftype.exe
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\bin\Debug\net6.0\reftype.deps.json
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\bin\Debug\net6.0\reftype.runtimeconfig.json
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\bin\Debug\net6.0\reftype.dll
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\bin\Debug\net6.0\ref\reftype.dll
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\bin\Debug\net6.0\reftype.pdb
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\obj\Debug\net6.0\reftype.dll
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\obj\Debug\net6.0\ref\reftype.dll
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\obj\Debug\net6.0\reftype.pdb
+D:\Study\C#\TrainingCourse\02-11-2022\reftype\obj\Debug\net6.0\reftype.genruntimeconfig.cache

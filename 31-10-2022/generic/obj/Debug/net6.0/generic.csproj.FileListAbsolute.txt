@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\31-10-2022\generic\obj\Debug\net6.0\generic.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\31-10-2022\generic\obj\Debug\net6.0\generic.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\31-10-2022\generic\obj\Debug\net6.0\generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\31-10-2022\generic\obj\Debug\net6.0\generic.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\31-10-2022\generic\obj\Debug\net6.0\generic.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\31-10-2022\generic\obj\Debug\net6.0\generic.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\31-10-2022\generic\bin\Debug\net6.0\generic.exe
+D:\Study\C#\TrainingCourse\31-10-2022\generic\bin\Debug\net6.0\generic.deps.json
+D:\Study\C#\TrainingCourse\31-10-2022\generic\bin\Debug\net6.0\generic.runtimeconfig.json
+D:\Study\C#\TrainingCourse\31-10-2022\generic\bin\Debug\net6.0\generic.dll
+D:\Study\C#\TrainingCourse\31-10-2022\generic\bin\Debug\net6.0\ref\generic.dll
+D:\Study\C#\TrainingCourse\31-10-2022\generic\bin\Debug\net6.0\generic.pdb
+D:\Study\C#\TrainingCourse\31-10-2022\generic\obj\Debug\net6.0\generic.dll
+D:\Study\C#\TrainingCourse\31-10-2022\generic\obj\Debug\net6.0\ref\generic.dll
+D:\Study\C#\TrainingCourse\31-10-2022\generic\obj\Debug\net6.0\generic.pdb
+D:\Study\C#\TrainingCourse\31-10-2022\generic\obj\Debug\net6.0\generic.genruntimeconfig.cache

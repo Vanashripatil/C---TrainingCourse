@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\bin\Debug\net6.0\readWrite2.exe
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\bin\Debug\net6.0\readWrite2.deps.json
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\bin\Debug\net6.0\readWrite2.runtimeconfig.json
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\bin\Debug\net6.0\readWrite2.dll
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\bin\Debug\net6.0\ref\readWrite2.dll
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\bin\Debug\net6.0\readWrite2.pdb
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\obj\Debug\net6.0\readWrite2.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\obj\Debug\net6.0\readWrite2.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\obj\Debug\net6.0\readWrite2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\obj\Debug\net6.0\readWrite2.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\obj\Debug\net6.0\readWrite2.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\obj\Debug\net6.0\readWrite2.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\obj\Debug\net6.0\readWrite2.dll
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\obj\Debug\net6.0\ref\readWrite2.dll
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\obj\Debug\net6.0\readWrite2.pdb
+D:\Study\C#\TrainingCourse\21-10-2022\readWrite2\obj\Debug\net6.0\readWrite2.genruntimeconfig.cache

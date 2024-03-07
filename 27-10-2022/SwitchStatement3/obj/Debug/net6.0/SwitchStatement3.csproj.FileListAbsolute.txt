@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\obj\Debug\net6.0\SwitchStatement3.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\obj\Debug\net6.0\SwitchStatement3.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\obj\Debug\net6.0\SwitchStatement3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\obj\Debug\net6.0\SwitchStatement3.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\obj\Debug\net6.0\SwitchStatement3.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\obj\Debug\net6.0\SwitchStatement3.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\bin\Debug\net6.0\SwitchStatement3.exe
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\bin\Debug\net6.0\SwitchStatement3.deps.json
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\bin\Debug\net6.0\SwitchStatement3.runtimeconfig.json
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\bin\Debug\net6.0\SwitchStatement3.dll
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\bin\Debug\net6.0\ref\SwitchStatement3.dll
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\bin\Debug\net6.0\SwitchStatement3.pdb
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\obj\Debug\net6.0\SwitchStatement3.dll
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\obj\Debug\net6.0\ref\SwitchStatement3.dll
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\obj\Debug\net6.0\SwitchStatement3.pdb
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatement3\obj\Debug\net6.0\SwitchStatement3.genruntimeconfig.cache

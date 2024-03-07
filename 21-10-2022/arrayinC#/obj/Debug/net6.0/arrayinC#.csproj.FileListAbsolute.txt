@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\obj\Debug\net6.0\arrayinC#.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\obj\Debug\net6.0\arrayinC#.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\obj\Debug\net6.0\arrayinC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\obj\Debug\net6.0\arrayinC#.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\obj\Debug\net6.0\arrayinC#.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\obj\Debug\net6.0\arrayinC#.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\bin\Debug\net6.0\arrayinC#.exe
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\bin\Debug\net6.0\arrayinC#.deps.json
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\bin\Debug\net6.0\arrayinC#.runtimeconfig.json
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\bin\Debug\net6.0\arrayinC#.dll
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\bin\Debug\net6.0\ref\arrayinC#.dll
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\bin\Debug\net6.0\arrayinC#.pdb
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\obj\Debug\net6.0\arrayinC#.dll
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\obj\Debug\net6.0\ref\arrayinC#.dll
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\obj\Debug\net6.0\arrayinC#.pdb
+D:\Study\C#\TrainingCourse\21-10-2022\arrayinC#\obj\Debug\net6.0\arrayinC#.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\bin\Debug\net6.0\StudyMH.exe
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\bin\Debug\net6.0\StudyMH.deps.json
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\bin\Debug\net6.0\StudyMH.runtimeconfig.json
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\bin\Debug\net6.0\StudyMH.dll
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\bin\Debug\net6.0\ref\StudyMH.dll
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\bin\Debug\net6.0\StudyMH.pdb
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\obj\Debug\net6.0\StudyMH.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\obj\Debug\net6.0\StudyMH.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\obj\Debug\net6.0\StudyMH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\obj\Debug\net6.0\StudyMH.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\obj\Debug\net6.0\StudyMH.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\obj\Debug\net6.0\StudyMH.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\obj\Debug\net6.0\StudyMH.dll
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\obj\Debug\net6.0\ref\StudyMH.dll
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\obj\Debug\net6.0\StudyMH.pdb
+D:\Study\C#\TrainingCourse\02-11-2022\StudyMH\obj\Debug\net6.0\StudyMH.genruntimeconfig.cache

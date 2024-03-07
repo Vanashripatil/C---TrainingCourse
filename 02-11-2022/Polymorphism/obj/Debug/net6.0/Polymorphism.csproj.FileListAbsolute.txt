@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\bin\Debug\net6.0\ref\Polymorphism.dll
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\obj\Debug\net6.0\Polymorphism.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+D:\Study\C#\TrainingCourse\02-11-2022\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache

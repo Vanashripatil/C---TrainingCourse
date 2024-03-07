@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\obj\Debug\net6.0\overrideEqualsMethod.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\obj\Debug\net6.0\overrideEqualsMethod.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\obj\Debug\net6.0\overrideEqualsMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\obj\Debug\net6.0\overrideEqualsMethod.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\obj\Debug\net6.0\overrideEqualsMethod.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\obj\Debug\net6.0\overrideEqualsMethod.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\bin\Debug\net6.0\overrideEqualsMethod.exe
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\bin\Debug\net6.0\overrideEqualsMethod.deps.json
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\bin\Debug\net6.0\overrideEqualsMethod.runtimeconfig.json
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\bin\Debug\net6.0\overrideEqualsMethod.dll
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\bin\Debug\net6.0\ref\overrideEqualsMethod.dll
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\bin\Debug\net6.0\overrideEqualsMethod.pdb
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\obj\Debug\net6.0\overrideEqualsMethod.dll
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\obj\Debug\net6.0\ref\overrideEqualsMethod.dll
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\obj\Debug\net6.0\overrideEqualsMethod.pdb
+D:\Study\C#\TrainingCourse\31-10-2022\overrideEqualsMethod\obj\Debug\net6.0\overrideEqualsMethod.genruntimeconfig.cache

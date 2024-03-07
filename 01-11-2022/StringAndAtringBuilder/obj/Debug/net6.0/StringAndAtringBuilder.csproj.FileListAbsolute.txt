@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\bin\Debug\net6.0\StringAndAtringBuilder.exe
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\bin\Debug\net6.0\StringAndAtringBuilder.deps.json
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\bin\Debug\net6.0\StringAndAtringBuilder.runtimeconfig.json
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\bin\Debug\net6.0\StringAndAtringBuilder.dll
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\bin\Debug\net6.0\ref\StringAndAtringBuilder.dll
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\bin\Debug\net6.0\StringAndAtringBuilder.pdb
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\obj\Debug\net6.0\StringAndAtringBuilder.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\obj\Debug\net6.0\StringAndAtringBuilder.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\obj\Debug\net6.0\StringAndAtringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\obj\Debug\net6.0\StringAndAtringBuilder.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\obj\Debug\net6.0\StringAndAtringBuilder.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\obj\Debug\net6.0\StringAndAtringBuilder.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\obj\Debug\net6.0\StringAndAtringBuilder.dll
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\obj\Debug\net6.0\ref\StringAndAtringBuilder.dll
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\obj\Debug\net6.0\StringAndAtringBuilder.pdb
+D:\Study\C#\TrainingCourse\01-11-2022\StringAndAtringBuilder\obj\Debug\net6.0\StringAndAtringBuilder.genruntimeconfig.cache

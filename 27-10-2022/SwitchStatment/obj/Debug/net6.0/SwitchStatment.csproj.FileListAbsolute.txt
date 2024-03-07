@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\bin\Debug\net6.0\SwitchStatment.exe
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\bin\Debug\net6.0\SwitchStatment.deps.json
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\bin\Debug\net6.0\SwitchStatment.runtimeconfig.json
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\bin\Debug\net6.0\SwitchStatment.dll
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\bin\Debug\net6.0\ref\SwitchStatment.dll
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\bin\Debug\net6.0\SwitchStatment.pdb
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\obj\Debug\net6.0\SwitchStatment.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\obj\Debug\net6.0\SwitchStatment.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\obj\Debug\net6.0\SwitchStatment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\obj\Debug\net6.0\SwitchStatment.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\obj\Debug\net6.0\SwitchStatment.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\obj\Debug\net6.0\SwitchStatment.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\obj\Debug\net6.0\SwitchStatment.dll
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\obj\Debug\net6.0\ref\SwitchStatment.dll
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\obj\Debug\net6.0\SwitchStatment.pdb
+D:\Study\C#\TrainingCourse\27-10-2022\SwitchStatment\obj\Debug\net6.0\SwitchStatment.genruntimeconfig.cache

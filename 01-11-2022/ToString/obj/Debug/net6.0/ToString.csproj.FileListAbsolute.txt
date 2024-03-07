@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\obj\Debug\net6.0\ToString.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\obj\Debug\net6.0\ToString.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\obj\Debug\net6.0\ToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\obj\Debug\net6.0\ToString.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\obj\Debug\net6.0\ToString.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\obj\Debug\net6.0\ToString.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\bin\Debug\net6.0\ToString.exe
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\bin\Debug\net6.0\ToString.deps.json
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\bin\Debug\net6.0\ToString.runtimeconfig.json
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\bin\Debug\net6.0\ToString.dll
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\bin\Debug\net6.0\ref\ToString.dll
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\bin\Debug\net6.0\ToString.pdb
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\obj\Debug\net6.0\ToString.dll
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\obj\Debug\net6.0\ref\ToString.dll
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\obj\Debug\net6.0\ToString.pdb
+D:\Study\C#\TrainingCourse\01-11-2022\ToString\obj\Debug\net6.0\ToString.genruntimeconfig.cache

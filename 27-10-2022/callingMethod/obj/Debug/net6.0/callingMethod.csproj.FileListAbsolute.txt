@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\obj\Debug\net6.0\callingMethod.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\obj\Debug\net6.0\callingMethod.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\obj\Debug\net6.0\callingMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\obj\Debug\net6.0\callingMethod.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\obj\Debug\net6.0\callingMethod.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\obj\Debug\net6.0\callingMethod.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\bin\Debug\net6.0\callingMethod.exe
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\bin\Debug\net6.0\callingMethod.deps.json
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\bin\Debug\net6.0\callingMethod.runtimeconfig.json
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\bin\Debug\net6.0\callingMethod.dll
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\bin\Debug\net6.0\ref\callingMethod.dll
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\bin\Debug\net6.0\callingMethod.pdb
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\obj\Debug\net6.0\callingMethod.dll
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\obj\Debug\net6.0\ref\callingMethod.dll
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\obj\Debug\net6.0\callingMethod.pdb
+D:\Study\C#\TrainingCourse\27-10-2022\callingMethod\obj\Debug\net6.0\callingMethod.genruntimeconfig.cache

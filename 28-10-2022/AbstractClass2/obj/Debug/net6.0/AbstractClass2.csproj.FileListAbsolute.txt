@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\bin\Debug\net6.0\AbstractClass2.exe
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\bin\Debug\net6.0\AbstractClass2.deps.json
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\bin\Debug\net6.0\AbstractClass2.runtimeconfig.json
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\bin\Debug\net6.0\AbstractClass2.dll
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\bin\Debug\net6.0\ref\AbstractClass2.dll
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\bin\Debug\net6.0\AbstractClass2.pdb
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\obj\Debug\net6.0\AbstractClass2.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\obj\Debug\net6.0\AbstractClass2.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\obj\Debug\net6.0\AbstractClass2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\obj\Debug\net6.0\AbstractClass2.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\obj\Debug\net6.0\AbstractClass2.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\obj\Debug\net6.0\AbstractClass2.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\obj\Debug\net6.0\AbstractClass2.dll
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\obj\Debug\net6.0\ref\AbstractClass2.dll
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\obj\Debug\net6.0\AbstractClass2.pdb
+D:\Study\C#\TrainingCourse\28-10-2022\AbstractClass2\obj\Debug\net6.0\AbstractClass2.genruntimeconfig.cache

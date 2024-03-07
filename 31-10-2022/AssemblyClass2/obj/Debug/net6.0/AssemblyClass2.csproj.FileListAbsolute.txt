@@ -1,0 +1,6 @@
+D:\Study\C#\TrainingCourse\31-10-2022\AssemblyClass2\obj\Debug\net6.0\AssemblyClass2.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\31-10-2022\AssemblyClass2\obj\Debug\net6.0\AssemblyClass2.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\31-10-2022\AssemblyClass2\obj\Debug\net6.0\AssemblyClass2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\31-10-2022\AssemblyClass2\obj\Debug\net6.0\AssemblyClass2.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\31-10-2022\AssemblyClass2\obj\Debug\net6.0\AssemblyClass2.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\31-10-2022\AssemblyClass2\obj\Debug\net6.0\AssemblyClass2.csproj.CoreCompileInputs.cache

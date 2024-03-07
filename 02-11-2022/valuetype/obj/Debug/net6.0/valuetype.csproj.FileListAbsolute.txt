@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\obj\Debug\net6.0\valuetype.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\obj\Debug\net6.0\valuetype.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\obj\Debug\net6.0\valuetype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\obj\Debug\net6.0\valuetype.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\obj\Debug\net6.0\valuetype.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\obj\Debug\net6.0\valuetype.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\bin\Debug\net6.0\valuetype.exe
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\bin\Debug\net6.0\valuetype.deps.json
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\bin\Debug\net6.0\valuetype.runtimeconfig.json
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\bin\Debug\net6.0\valuetype.dll
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\bin\Debug\net6.0\ref\valuetype.dll
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\bin\Debug\net6.0\valuetype.pdb
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\obj\Debug\net6.0\valuetype.dll
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\obj\Debug\net6.0\ref\valuetype.dll
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\obj\Debug\net6.0\valuetype.pdb
+D:\Study\C#\TrainingCourse\02-11-2022\valuetype\obj\Debug\net6.0\valuetype.genruntimeconfig.cache

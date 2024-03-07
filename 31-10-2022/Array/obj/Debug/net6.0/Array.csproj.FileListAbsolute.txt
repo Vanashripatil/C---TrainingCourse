@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\31-10-2022\Array\bin\Debug\net6.0\Array.exe
+D:\Study\C#\TrainingCourse\31-10-2022\Array\bin\Debug\net6.0\Array.deps.json
+D:\Study\C#\TrainingCourse\31-10-2022\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+D:\Study\C#\TrainingCourse\31-10-2022\Array\bin\Debug\net6.0\Array.dll
+D:\Study\C#\TrainingCourse\31-10-2022\Array\bin\Debug\net6.0\ref\Array.dll
+D:\Study\C#\TrainingCourse\31-10-2022\Array\bin\Debug\net6.0\Array.pdb
+D:\Study\C#\TrainingCourse\31-10-2022\Array\obj\Debug\net6.0\Array.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\31-10-2022\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\31-10-2022\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\31-10-2022\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\31-10-2022\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\31-10-2022\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\31-10-2022\Array\obj\Debug\net6.0\Array.dll
+D:\Study\C#\TrainingCourse\31-10-2022\Array\obj\Debug\net6.0\ref\Array.dll
+D:\Study\C#\TrainingCourse\31-10-2022\Array\obj\Debug\net6.0\Array.pdb
+D:\Study\C#\TrainingCourse\31-10-2022\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache

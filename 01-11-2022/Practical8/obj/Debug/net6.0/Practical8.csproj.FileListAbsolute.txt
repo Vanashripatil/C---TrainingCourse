@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\bin\Debug\net6.0\Practical8.exe
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\bin\Debug\net6.0\Practical8.deps.json
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\bin\Debug\net6.0\Practical8.runtimeconfig.json
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\bin\Debug\net6.0\Practical8.dll
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\bin\Debug\net6.0\ref\Practical8.dll
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\bin\Debug\net6.0\Practical8.pdb
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\obj\Debug\net6.0\Practical8.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\obj\Debug\net6.0\Practical8.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\obj\Debug\net6.0\Practical8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\obj\Debug\net6.0\Practical8.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\obj\Debug\net6.0\Practical8.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\obj\Debug\net6.0\Practical8.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\obj\Debug\net6.0\Practical8.dll
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\obj\Debug\net6.0\ref\Practical8.dll
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\obj\Debug\net6.0\Practical8.pdb
+D:\Study\C#\TrainingCourse\01-11-2022\Practical8\obj\Debug\net6.0\Practical8.genruntimeconfig.cache

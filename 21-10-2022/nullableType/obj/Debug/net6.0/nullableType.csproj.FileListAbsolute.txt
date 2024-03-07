@@ -1,0 +1,16 @@
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\obj\Debug\net6.0\nullableType.GlobalUsings.g.cs
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\obj\Debug\net6.0\nullableType.csproj.AssemblyReference.cache
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\obj\Debug\net6.0\nullableType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\obj\Debug\net6.0\nullableType.AssemblyInfoInputs.cache
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\obj\Debug\net6.0\nullableType.AssemblyInfo.cs
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\obj\Debug\net6.0\nullableType.csproj.CoreCompileInputs.cache
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\bin\Debug\net6.0\nullableType.exe
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\bin\Debug\net6.0\nullableType.deps.json
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\bin\Debug\net6.0\nullableType.runtimeconfig.json
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\bin\Debug\net6.0\nullableType.dll
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\bin\Debug\net6.0\ref\nullableType.dll
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\bin\Debug\net6.0\nullableType.pdb
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\obj\Debug\net6.0\nullableType.dll
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\obj\Debug\net6.0\ref\nullableType.dll
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\obj\Debug\net6.0\nullableType.pdb
+D:\Study\C#\TrainingCourse\21-10-2022\nullableType\obj\Debug\net6.0\nullableType.genruntimeconfig.cache
